@@ -11,11 +11,16 @@ This is a plugin to customize your own player. Which can make it easier to play 
 - Change name/nick player
 - Setting mode flying
 - Change your size player
-  `Normal`
-  `Small`
+  - `Normal`
+  - `Small`
 - Set yourself gamemode player
 
-| All the permissions | `cosmeticmenu.all` |  
-| --- | --- |
-| `The Item` | `cosmeticmenu.item` |  
-| `The Command` | `cosmeticmenu.cmd` | 
+# Command
+`/setting` = Open UI to setting player
+
+# Permissions
+- `sett.all` = All Fiture setting
+- `sett.nickplayer` = Fiture change name/nick player
+- `sett.flyplayer` = Set yourself to flying
+- `sett.sizeplayer` = Edit size/scale player
+- `sett.gmplayer` = set gamemode yourself
