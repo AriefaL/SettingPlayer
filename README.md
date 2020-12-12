@@ -15,17 +15,7 @@ This is a plugin to customize your own player. Which can make it easier to play 
   - Small
 - Set yourself gamemode player
 
-# Commands
-  /setting  =  Open UI to setting player
-  
-# Permissions
-// sett.all
-  - description: Permission to all access
-- sett.nickplayer
-  - description: Permission to only access fiture change name/nick player
-- sett.flyplayer
-  - description: Permission to only access fiture set yourself to mode flying
-- sett.sizeplayer
-  - description: Permission to only access fiture change scale player
-- sett.gmplayer
-  - description: Permission to only access fiture set Gamemode player
+| All the permissions | `cosmeticmenu.all` |  
+| --- | --- |
+| `The Item` | `cosmeticmenu.item` |  
+| `The Command` | `cosmeticmenu.cmd` | 
