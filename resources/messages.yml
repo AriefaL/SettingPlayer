@@ -1,0 +1,18 @@
+---  
+# You can't edit message here
+# Use symbol '§' to set up color text
+MessageCustom:
+  success: "§l§f» §r§eSuccess change name: §f{custom_name}"
+
+MessageFly:
+  enable: "§l§f» §r§eYou now turn-on mode fly!"
+  disable: "§l§f» §r§eYou now turn-off mode fly!"
+
+MessageSize:
+  small: "§l§f» §r§eSuccess to set up size small"
+  normal: "§l§f» §r§eSuccess to set up size normal"
+
+MessageGM:
+  creative: "§l§f» §r§eSuccess to set mode creative"
+  survival: "§l§f» §r§eSuccess to set mode survival"
+...

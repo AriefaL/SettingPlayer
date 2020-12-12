@@ -1,0 +1,14 @@
+---
+# Here to set up the Form
+Form:
+  # Here to set up 'true' or 'false' button
+  Button: 
+    # Button to Change Name
+    nick: true
+    # Button Flying Player
+    flying: true
+    # Button Hide Player
+    sizeplayer: true
+    # Button set Gamemode
+    gamemode: true
+...

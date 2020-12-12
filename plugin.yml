@@ -1,0 +1,32 @@
+---
+name: SettingPlayer
+author: AriefaL
+main: SP\Main
+
+api: 
+- 3.0.0
+- 4.0.0
+
+version: 1.0.0
+softdepend: [FormAPI]
+description: "Hello, thank you for downloading this plugin! Join our server play.minecrush.org"
+
+commands:
+  setting:
+    description: "Setting mode player self"
+
+permissions:
+  sett.all:
+    default: op
+    description: Permission for all features
+    children:
+    
+      sett.nickplayer:
+        default: true
+      sett.flyplayer:
+        default: true
+      sett.sizeplayer:
+        default: op
+      sett.gmplayer:
+        default: op
+...
