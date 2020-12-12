@@ -11,8 +11,8 @@ This is a plugin to customize your own player. Which can make it easier to play 
 - Change name/nick player
 - Setting mode flying
 - Change your size player
-  - Normal
-  - Small
+  `Normal`
+  `Small`
 - Set yourself gamemode player
 
 | All the permissions | `cosmeticmenu.all` |  
