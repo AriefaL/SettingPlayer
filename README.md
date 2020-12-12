@@ -8,18 +8,18 @@ This is a plugin to customize your own player. Which can make it easier to play 
 - Enjoiy :)
 
 # Fiture Plugin
-1. Change name/nick player
-2. Setting mode flying
-3. Change your size player
+- Change name/nick player
+- Setting mode flying
+- Change your size player
   - Normal
   - Small
-4. Set yourself gamemode player
+- Set yourself gamemode player
 
 # Commands
   /setting  =  Open UI to setting player
   
 # Permissions
-- sett.all
+// sett.all
   - description: Permission to all access
 - sett.nickplayer
   - description: Permission to only access fiture change name/nick player
