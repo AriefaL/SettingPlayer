@@ -11,4 +11,11 @@ Form:
     sizeplayer: true
     # Button set Gamemode
     gamemode: true
+    
+# Reset Fitur if player Join
+Reset:
+  nick: true
+  flying: true
+  sizeplayer: true
+  gamemode: true # reset gamemode in Survival mode
 ...
