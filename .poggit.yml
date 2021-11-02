@@ -5,4 +5,5 @@ branches:
 projects:
   SettingPlayer:
     path: ""
+    icon: "images/settingplayer.png"
 ...
