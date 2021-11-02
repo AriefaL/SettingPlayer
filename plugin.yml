@@ -3,11 +3,9 @@ name: SettingPlayer
 author: AriefaL
 main: SP\Main
 
-api: 
-- 3.0.0
-- 4.0.0
+api: 3.0.0
 
-version: 1.0.0
+version: 1.0.1
 softdepend: [FormAPI]
 description: "Hello, thank you for downloading this plugin! Join our server play.minecrush.org"
 
@@ -20,7 +18,6 @@ permissions:
     default: op
     description: Permission for all features
     children:
-    
       sett.nickplayer:
         default: true
       sett.flyplayer:
